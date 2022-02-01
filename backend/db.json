@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 5.55
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 2999.9
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy A80",
+      "price": "2359.9"
+    },
+    {
+      "name": "Fogão",
+      "price": 549.5,
+      "id": 4
+    },
+    {
+      "name": "Microondas",
+      "price": 349.9,
+      "id": 5
+    },
+    {
+      "name": "Microondas",
+      "price": 349.9,
+      "id": 6
+    },
+    {
+      "name": "IBTV",
+      "price": "1219.90",
+      "id": 7
+    },
+    {
+      "name": "Carregador Tipo C",
+      "price": "18.50",
+      "id": 8
+    }
+  ]
+}
